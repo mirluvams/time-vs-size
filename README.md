@@ -1,6 +1,6 @@
 # time-vs-size
 
-By [mirluvams](https://github.com/mirluvams) ([mirluvams@gmail.com](mailto:mirluvams@gmail.com)), student of the Dynamic Systems 2022-2 class taught by Dr. [Victor de la Luz](https://github.com/itztli) at [*Escuela Nacional de Estudios Superiores*, campus Morelia](https://www.enesmorelia.unam.mx/), [UNAM](https://www.unam.mx/).
+By [mirluvams](https://github.com/mirluvams) ([mirluvams@gmail.com](mailto:mirluvams@gmail.com)), student of the Distributed Computing 2022-2 class taught by Dr. [Victor de la Luz](https://github.com/itztli) at [*Escuela Nacional de Estudios Superiores*, campus Morelia](https://www.enesmorelia.unam.mx/), [UNAM](https://www.unam.mx/).
 
 ## Problem
 This problem consists in implementing the command "[Mb, time_up, time_download] = pingmb -n <Mb> -ip <dst>".
@@ -16,7 +16,7 @@ This problem consists in implementing the command "[Mb, time_up, time_download] 
 * Finally, plot size vs. time for up and download for the two interfaces.
   
 ## Procedure - steps
-Steps:
+### Steps:
 > 1) Exchange keys between the web server and the storage server.
 > 2) Copy the file to your account's public directory on the web server.
 > 3) Use wget and scp for downloading and uploading data.
