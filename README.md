@@ -13,6 +13,7 @@ where:
 ## Methodology
 * Test for 2 interfaces from 192.168.0.200 from 1Mb, 10Mb, 20Mb,... up to 100Mb (in 10Mb steps):
 > 10.99.1.138
+>
 > 132.247.186.67
 ## Instructions
 * Finally, plot size vs. time for up and download for the two interfaces.
