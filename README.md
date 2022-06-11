@@ -15,7 +15,6 @@ where:
 > 10.99.1.138
 >
 > 132.247.186.67
-## Instructions
 * Finally, plot size vs. time for up and download for the two interfaces.
   
 ## Procedure - steps
