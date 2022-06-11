@@ -4,7 +4,8 @@ By [mirluvams](https://github.com/mirluvams) ([mirluvams@gmail.com](mailto:mirlu
 
 ## Problem
 This problem consists in implementing the command "[Mb, time_up, time_download] = pingmb -n <Mb> -ip <dst>".
-#### where:
+>
+where:
 > Mb: file size in Mb
 > dst: IP destination
   
