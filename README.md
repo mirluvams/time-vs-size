@@ -17,7 +17,7 @@ where:
 > 132.247.186.67
 * Finally, plot size vs. time for up and download for the two interfaces.
   
-## Procedure - steps
+## Procedure
 ### Steps:
 > 1) Exchange keys between the web server and the storage server.
 > 2) Copy the file to your account's public directory on the web server.
