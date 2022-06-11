@@ -27,7 +27,7 @@ where:
   
   
 ## Toolset
-* [subprocess]([https://numpy.org/](https://docs.python.org/3/library/subprocess.html)
+* [subprocess](https://docs.python.org/3/library/subprocess.html)
 * pingmb
 * [sys](https://docs.python.org/es/3.10/library/sys.html)
 * [matplotlib.pyplot](https://matplotlib.org/)
