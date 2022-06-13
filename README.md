@@ -37,4 +37,4 @@ where:
 De la Luz, V. (2022). Class: Dynamic Systems 2022-2. [ENES Unidad Morelia](https://www.enesmorelia.unam.mx/).
 
 ## Conclusions
-![](s_square.png)
+![](image.png)
