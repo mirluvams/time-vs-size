@@ -37,9 +37,13 @@ where:
 De la Luz, V. (2022). Class: Dynamic Systems 2022-2. [ENES Unidad Morelia](https://www.enesmorelia.unam.mx/).
 
 ## Conclusions
+>
 Entre nuestros resultados arroja: 31MB = 0.19, 41MB = 0.28, 51MB = 0.34, 61MB = 0.42, 71MB = 0.91, 81MB = 0.62, 91MB = 0.75.
 ![](testing_ping.png)
 >
+>
 Gráfica de latencias arrojadas.
+>
+>
 ![](latency.png)
 
