@@ -15,7 +15,7 @@ where:
 > 10.99.1.138
 >
 > 132.247.186.67
-* Finally, plot size vs. time for up and download for the two interfaces.
+* Finally, plot size vs. time for up for the two interfaces.
   
 ## Procedure
 ### Steps:
@@ -38,12 +38,17 @@ De la Luz, V. (2022). Class: Dynamic Systems 2022-2. [ENES Unidad Morelia](https
 
 ## Conclusions
 >
-Entre nuestros resultados arroja: 31MB = 0.19, 41MB = 0.28, 51MB = 0.34, 61MB = 0.42, 71MB = 0.91, 81MB = 0.62, 91MB = 0.75.
+Output: 10 = 12 MB, 21 = 16 MB 31MB = 0.19, 41MB = 0.28, 51MB = 0.34, 61MB = 0.42, 71MB = 0.91, 81MB = 0.62, 91MB = 0.75.
+>
+
 ![](testing_ping.png)
 >
 >
-Gráfica de latencias arrojadas.
+Latency graph where the x-axis represents MB and the y-axis represents time in seconds.
 >
 >
 ![](latency.png)
-
+  
+We use Ping to measure latency, which is measured in milliseconds (or ms) the time it takes for the local connection to communicate with a remote computer on the IP network. For this reason, when you are going to carry out a speed test, the first thing that the website is going to carry it out does is measure the Ping, and then it goes on to give you the data download and upload speeds, in this particular case, we are measuring the uploading time.
+  
+Ping or latency are especially important in those situations in which the immediacy with which we communicate with a server is vital for the activity we are carrying out. A classic example is video games, because if your Ping is high you will have lag and it will take time for what is really happening in an online game to reach your screen. And when the game is about shooting, for example, that can make a difference when it comes to reacting to certain situations.
